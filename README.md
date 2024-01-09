@@ -8,7 +8,7 @@
 
 # Opis projektu
 
-Opis tematu : Aplikacja będzie miała na celu pomóc w zarządzaniu finansami osobistymi i będzie
+Aplikacja będzie miała na celu pomóc w zarządzaniu finansami osobistymi i będzie
 skierowana do użytkowników indywidualnych. Użytkownik będzie mógł założyć konto w systemie,
 który pomoże użytkownikowi świadomie kontrolować swoje finanse poprzez monitorowanie
 wydatków przewidzianych na dany miesiąc i późniejszą ich analizę, pilnowanie terminowości opłat i
@@ -71,7 +71,7 @@ Testy jednostkowe i integracyjne znajdują się w backendzie aplikacji w folderz
 | GET    | /api/monthBudget/getAll/:userId | - | Auth (Bearer Token) | Pobiera wszystkie budżety miesięczne dla danego użytkownika. |  
 
 
-#Scenariusze dla testera manualnego
+# Scenariusze dla testera manualnego
 
 | CASEID | OPIS                                        | WARUNKI WSTĘPNE                                   | KROKI TESTOWE                                                                                                      | OCZEKIWANE WYNIKI                                                          |
 |--------|---------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
