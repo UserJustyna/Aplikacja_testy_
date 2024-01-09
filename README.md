@@ -15,6 +15,9 @@ wydatków przewidzianych na dany miesiąc i późniejszą ich analizę, pilnowan
 pogłębianie wiedzy w temacie oszczędności i tematów związanych z tym zagadnieniem.
 
 
+## Przykładowy screen jednego z ekranów aplikacji ↓
+![Screenshot_31](https://github.com/UserJustyna/Aplikacja_testy_/assets/153954677/2fc06936-f268-4865-8dcf-5353e1af215a)
+
 # Uruchomienie projektu
 
 Po pobraniu aplikacji wykonujemy komendy z poziomu terminala.
